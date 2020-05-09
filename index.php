@@ -1,5 +1,5 @@
 <?php
 
-print 'RAJESHkumar'
+print 'RAJESHKumar'
 
 ?>
